@@ -5,9 +5,7 @@
  <img width=400px  src="duke-university-logo-preview.png" alt="duke-university-logo"></a>
 </p>
 
-#### Instructor(s) : 
-	* Daniel Egger, Executive in Residence and Director, Center for Quantitative Modeling
-	* Paul Bendich, Assistant research professor of Mathematics; Associate Director for Curricular Engagement at the Information Initiative at Duke
+#### Instructor(s) : Daniel Egger, Paul Bendich
 
 ## About this Course
 
